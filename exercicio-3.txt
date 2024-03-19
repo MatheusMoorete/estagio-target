@@ -1,0 +1,11 @@
+a) 1, 3, 5, 7, 9 //Lógica: adicionar 2 a cada termo
+
+b) 2, 4, 8, 16, 32, 64, 128 //Lógica: multiplicar cada termpo por 2
+
+c) 0, 1, 4, 9, 16, 25, 36, 49 //Lógica: cada terma é o quadrado do seu índina na sequência
+
+d) 4, 16, 36, 64, 100  //Lógica: cada termo é o quadrado do número ímpar seguinte
+
+e) 1, 1, 2, 3, 5, 8, 13 //Lógica: esta é a sequência de Fibonacci. Cada número é a soma dos dois números anteriores
+
+f) 2,10, 12, 16, 17, 18, 19, 20  //Lógica: os números estão sendo adicionados em sequências: +8, +2, +4, +1, +1, +1

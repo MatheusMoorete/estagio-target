@@ -1,0 +1,15 @@
+Na primeira visita à sala das lâmpadas:
+
+Ligue o primeiro interruptor por alguns minutos e depois desligue.
+Ligue o segundo interruptor.
+Na segunda visita à sala das lâmpadas:
+
+Se a lâmpada estiver acesa, isso significa que o segundo interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada e estiver quente ao toque, isso significa que o primeiro interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada e fria ao toque, isso significa que o terceiro interruptor controla essa lâmpada.
+A lógica por trás desse método é a seguinte:
+
+Se o interruptor 1 controlar a lâmpada, ela estará quente ao toque porque foi ligada por alguns minutos antes de ser desligada. Portanto, se a lâmpada estiver acesa na segunda visita, o interruptor 1 é o responsável por ela.
+Se o interruptor 2 controlar a lâmpada, ela estará acesa durante a segunda visita.
+Se o interruptor 3 controlar a lâmpada, ela estará apagada na segunda visita, mas como nenhum dos outros interruptores foi ligado antes, ela estará fria ao toque.
+Dessa forma, você pode determinar qual interruptor controla cada lâmpada com apenas duas idas até a sala das lâmpadas.
