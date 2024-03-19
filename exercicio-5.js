@@ -3,7 +3,7 @@ function inverterString(str) {
 
     // Percorre a string da última posição até a primeira
     for (let i = str.length - 1; i >= 0; i--) {
-        // Concatena o caractere atual à nova string
+        // Concatena o caractere atual a nova string
         invertedString += str[i];
     }
 
